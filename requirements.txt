@@ -1,0 +1,7 @@
+tqdm
+sentence_transformers
+clickhouse_connect
+pandas
+numpy
+faker
+openai
